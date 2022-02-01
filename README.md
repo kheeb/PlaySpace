@@ -59,7 +59,12 @@ SO THAT I can connect with friends and family to share our love of music online
 
 Coding was completed by Bonnie DiPasquale, Lauren Ferrett, Kara Heeb, and Tina Stancyzk.
 
+
 ### Resources
+
+Check our the presentation slides below to learn more about our app!
+https://docs.google.com/presentation/d/1vHTrKmG3S5FOHYqRVIqFRONB0nol9KUFgeBG8Ip8cX4/edit?usp=sharing
+
 This series on fetching music from Spotify and transferring them to Apple Music was a big help:
 [Spotify to Apple Music](https://www.youtube.com/watch?v=RG_KF3w3btQ&list=PLzFtdULM-ECJ3_dCX9Pz7lno5MX7cwYDQ&index=9)
 
