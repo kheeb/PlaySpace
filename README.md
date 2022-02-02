@@ -53,14 +53,13 @@ SO THAT I can connect with friends and family to share our love of music online
 
 ## Usage
 
-![GIF of Final Code] (file:///Users/karaheeb/Downloads/playspace.gif)
-
+![playspace](https://user-images.githubusercontent.com/93744725/152093639-0bc88c53-7d64-4b68-b637-33f7b0730d19.gif)
 
 
 ## Credits
 
 Coding was completed by Bonnie DiPasquale, Lauren Ferrett, Kara Heeb, and Tina Stancyzk.
-![Team Photo] (https://files.slack.com/files-pri/T02L7S31551-F0317AHUXTN/screen_shot_2022-02-01_at_11.30.35_am.png)
+<img width="1379" alt="Screen Shot 2022-02-01 at 11 30 35 AM" src="https://user-images.githubusercontent.com/93744725/152093139-2575f408-3276-4e21-99a9-21171521ac12.png">
 
 
 ### Resources
